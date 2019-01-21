@@ -6,7 +6,7 @@ This web application is designed to scedule the maintenance of vehicles as they 
 
 Three types of cars has been described: Electric, Gas and Diesel car. In the web app you can set make, model, year, license number, VIN and odometer reading of the vehicle and see what the app suggests. In the run time, you can update the odometer reading and the suggestion for maintenance will be updated based on the year and odometer reading.
 
-![alt text](https://drive.google.com/open?id=16FUectX3mSuAap7VyP935NxcZmnG4zto)
+![alt text](https://imgur.com/a/b7v6oZW)
 
 # Credits
 Designed by M. Amin Mahmoudzadeh, Jan 2019.
